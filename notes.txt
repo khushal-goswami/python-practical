@@ -1,0 +1,6 @@
+date : 20/06/2024 
+day 1
+1. install vscode with python extendsan 
+2. install python lestest version 
+3. explore five file extends with use
+4. create hello wrold python program 
